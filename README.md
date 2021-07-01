@@ -1,5 +1,5 @@
 # Shor
-A jupyter notebookok tartalma röviden:
+A jupyter notebookok tartalma:
 
 Mindegyik nootebook segédfüggvényekkel kezdődik, melyek a Shor-algoritmus elő- és utófeldolgozásához szükségesek.
 Ezek mind hatékonyan (a probléma méretében polinomiálisan) skálázódnak.
