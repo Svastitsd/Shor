@@ -30,3 +30,6 @@ A notebookok tartalma röviden:
 5. futtatások_száma.ipynb :
   - A szükséges futtatások számának várható értéke (ez az erőforrás.ipybn fileban is szerepel)
   - A szükséges futtatások számának eloszlása
+ 
+6. hibák.ipynb :
+  - fizikai hibák hatása az algoritmus futásidejére
